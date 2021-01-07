@@ -1,0 +1,20 @@
+.titleOne {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+.startButton {
+  width: 35%;
+  height: 80px;
+  font-size: 30px;
+  border: 2px solid red;
+  border-radius: 15px;
+  margin-left: 32%;
+  margin-top: 15%;
+}
+#homeBody {
+  background-image: url("https://i.imgur.com/NqDB0jqb.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% ;
+}
+
